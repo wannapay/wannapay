@@ -1,5 +1,5 @@
 # wannapay
-WanaPay 和你Pay - A robot application which can pay Gov. bills with PPSHK
+WanaPay 和你Pay - A robot application which can pay Gov. bills dollar by dollar with PPSHK
 
 Build Procedure:
 1. python3 db.py
