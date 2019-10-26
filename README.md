@@ -9,3 +9,6 @@ Build Procedure:
 
 Run:
 python3 wannapay.py
+
+The wannapay.exe can be created by:
+pyinstaller --noconsole wannapay.py
